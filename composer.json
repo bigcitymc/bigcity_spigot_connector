@@ -1,5 +1,5 @@
 {
-    "name": "bigcitymc/spigot_connector",
+    "name": "bigcitymc/bigcity_spigot_connector",
     "description": "Connector module to bind Spigot servers to Drupal",
     "type": "drupal-module",
     "require-dev": {
