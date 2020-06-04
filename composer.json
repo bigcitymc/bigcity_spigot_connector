@@ -1,0 +1,21 @@
+{
+    "name": "bigcitymc/spigot_connector",
+    "description": "Connector module to bind Spigot servers to Drupal",
+    "type": "drupal-module",
+    "require-dev": {
+        "drupal/coder": "^8.3",
+        "phpunit/phpunit": "^9.1",
+        "drush/drush": "^10.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "boatware3",
+            "email": "boatware3@bigcitymc.de",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "drupal/core": "^8.9.*"
+    }
+}
