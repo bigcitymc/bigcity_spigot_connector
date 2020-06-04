@@ -3,3 +3,4 @@ package: "BigCity"
 type: module
 description: "API to connect a Spigot server to Drupal"
 version: 8.9.x-0.0.3
+core_version_requirement: ^8 || ^9
