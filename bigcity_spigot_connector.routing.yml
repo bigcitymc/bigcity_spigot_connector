@@ -1,0 +1,7 @@
+bc.spigot_connector.server_form:
+  path: '/admin/config/bigcity/spigot_connector/server'
+  defaults:
+    _form: '\Drupal\bigcity_spigot_connector\Form\ServerForm'
+    _title: 'Add server'
+  requirements:
+    _permission: 'administer site configuration'
